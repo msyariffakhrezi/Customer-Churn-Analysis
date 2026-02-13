@@ -8,5 +8,23 @@ By the end of the last quarter, the company have a critical problem about 27% of
 In addition, we build a predictive model to identify customers who are likely to churn, by understanding churn patterns, company can take proactive measures to improve customer retention.
 
 Insights and recommendations are provided on the following key areas:
-- **Churn Analysis**: identify the factors that influence churn, focusing on metrics of customer churn rates and number of churn
-- 
+- **Churn Analysis**: Identification of factors that influence churn, focusing on metrics of customer churn rates and number of churn
+- **Product Level Performance**: An analysis of Redblue's various product lines, understanding their impact on churn.
+- **Marketing Campaign Success**: An assessment of the marketing campaign on customer churn.
+- **Regional and Demographical Comparison**: An evaluation of churn by region and demographic.
+
+
+
+The SQL queries utilize to seperate data can be found here.
+
+The SQL queries utilize to clean, organize, and prepare data to dashboard can be found here.
+
+The SQL queries utilize to analyze data exploratory can be found here.
+
+The interactive dashboard can be found here.
+
+The notebook of churn prediction modeling can be found here.
+
+Model files to predict customer churn can be found here.
+
+All dataset can be found here.

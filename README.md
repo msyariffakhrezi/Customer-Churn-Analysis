@@ -13,6 +13,8 @@ Insights and recommendations are provided on the following key areas:
 - **Marketing Campaign Success**: An assessment of the marketing campaign on customer churn.
 - **Regional and Demographical Comparison**: An evaluation of churn by region and demographic.
 
+## Dataset
+The dataset contains many fields including customer data, geo data, product data, sales data, and churn data.
 
 
 The SQL queries utilize to seperate data can be found here.
@@ -29,6 +31,4 @@ Model files to predict customer churn can be found here.
 
 All dataset can be found here.
 
-
-[Field.pdf](https://github.com/user-attachments/files/25325448/Field.pdf)
 

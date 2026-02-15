@@ -28,3 +28,6 @@ The notebook of churn prediction modeling can be found here.
 Model files to predict customer churn can be found here.
 
 All dataset can be found here.
+
+
+<img width="4687" height="2636" alt="Field" src="https://github.com/user-attachments/assets/c202ab01-2421-4542-9012-1070feb048c1" />

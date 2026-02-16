@@ -14,7 +14,12 @@ Insights and recommendations are provided on the following key areas:
 - **Regional and Demographical Comparison**: An evaluation of churn by region and demographic.
 
 ## Dataset
-The dataset contains many fields including customer data, geo data, product data, sales data, and churn data.
+The dataset contains many fields including customer data, product data, order data, sales data, geographic data, and churn data.
+
+## Executive Summary
+**Overview of Finding**
+
+
 
 
 The SQL queries utilize to seperate data can be found here.

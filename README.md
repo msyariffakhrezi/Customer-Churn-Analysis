@@ -3,7 +3,7 @@
 ## Project Background
 Redblue Telco, is a telecommunications company in the state of california that provides home phone and internet sevices to customers over more than 1000 cities and zip codes. 
 
-By the end of the last quarter, the company have a critical problem about 27% of their customers decided on not renewing their subscribtions, meaning the customer churn rate is very high and above the goal of 10%, and the company is now facing a big challenge on retaining its customers. So, this project thoroughly analyses to uncover the factors leading to high customer churn rates and to help business stakeholders understand why customers leave and what can be done to retain them. 
+By the end of the last quarter, the company have a critical problem about 28% of their customers decided on not renewing their subscribtions, meaning the customer churn rate is very high and above the goal of 10%, and the company is now facing a big challenge on retaining its customers. So, this project thoroughly analyses to uncover the factors leading to high customer churn rates and to help business stakeholders understand why customers leave and what can be done to retain them. 
 
 In addition, we build a predictive model to identify customers who are likely to churn, by understanding churn patterns, company can take proactive measures to improve customer retention.
 
@@ -19,14 +19,17 @@ The dataset contains many fields including customer data, product data, order da
 ## Executive Summary
 **Overview of Finding**
 
+Churned customers generate higher monthly ARPU, but their significantly shorter tenure results in lower lifetime value, explaining why revenue churn remains lower than customer churn. This indicates early-stage customers with high initial usage but weak retention. And competitors are the primary reason for customer churn.
+
+<img width="999" height="599" alt="Home" src="https://github.com/user-attachments/assets/4f8f5955-3456-4d5c-981b-4a5f91c58a2c" />
 
 
 
-The SQL queries utilize to seperate data can be found here.
+The SQL queries utilized to seperate data can be found here.
 
-The SQL queries utilize to clean, organize, and prepare data to dashboard can be found here.
+The SQL queries utilized to clean, organize, and prepare data to dashboard can be found here.
 
-The SQL queries utilize to analyze data exploratory can be found here.
+The SQL queries utilized to analyze data exploratory can be found here.
 
 The interactive dashboard can be found here.
 

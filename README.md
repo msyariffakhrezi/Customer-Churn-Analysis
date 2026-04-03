@@ -27,8 +27,17 @@ Churned customers generate higher monthly ARPU, but their significantly shorter 
 ### Product Insights
 - More than half of the customers who received an offer E from marketing team, or more precisely 68%, decided not to renew their subcription. Around three times higher than the other offers.
 - Fiber optic users made up the largest group, but 42% of them churned, that's the highest among all internet type.
-- Nearly a half of all customers choosed month-to-month contract rather than the other two options which had longer term.
--  
+- Nearly a half of all customers choosed month-to-month contract rather than the other two options which had longer term. But they were the ones with the highest churn rate, even more than 50%.
+- In terms of services, internet service and unlimited data demonstrate relatively weak performance with regard to customer churn, customers who opted for these services had churn rate two to three higher than those who do not. On the other hand, online backup, online security, and tech support performed quite well in reducing customer churn. 
+
+
+
+### Demographic and Geographic
+- Customers who referred more acquintances to subscribe demonstrated more loyalty.
+- Older customers were more likely to cancel their subscription. The 66-80 year-old customers had the highest churn rate.
+- The Majority of Redblue's customers were from San Diego, but the customer churn rate for this city was the highest, at 67%.  
+
+
 
 The SQL queries utilized to seperate data can be found here.
 

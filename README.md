@@ -16,14 +16,13 @@ Insights and recommendations are provided on the following key areas:
 ## Dataset
 The dataset contains many fields including customer data, product data, order data, sales data, geographic data, and churn data.
 
-## Executive Summary
-**Overview of Finding: Churned customer is early-stage customers with high initial usage but weak retention**
+## Insights
+### Executive Summary
+At the start of the last quarter, Redblue Telco had 6,589 customers with an average revenue per user of $268.64. However, by the end of the quarter, 1869 of its customers (around 28% of them) had decided not to renew their subscriptions, mostly due to offers and device quality that were inferior compared to competitors. As a result, company lost around 31% of its revenue in the following quarter. 
 
-Churned customers generate higher monthly ARPU, but their significantly shorter tenure results in lower lifetime value, explaining why revenue churn remains lower than customer churn. This indicates high initial consumption without long-term retention. And competitors are the primary reason for customer churn.
+The fact that churned customers had higher quarterly ARPU than retained customers explains why revenue churn was greater than customer churn. And they tended to churn early in their subscription lifecycle. These indicate Churned customer is early-stage customers with high usage but weak retention.
 
-<img width="999" height="599" alt="Home" src="https://github.com/user-attachments/assets/4f8f5955-3456-4d5c-981b-4a5f91c58a2c" />
 
-## Insights Into
 ### Product Insights
 - More than half of the customers who received an offer E from marketing team, or more precisely 68%, decided not to renew their subcription. Around three times higher than the other offers.
 - Fiber optic users made up the largest group, but 42% of them churned, that's the highest among all internet type.
@@ -37,7 +36,17 @@ Churned customers generate higher monthly ARPU, but their significantly shorter 
 - Older customers were more likely to cancel their subscription. The 66-80 year-old customers had the highest churn rate.
 - The Majority of Redblue's customers were from San Diego, but the customer churn rate for this city was the highest, at 67%.  
 
-
+## Recommendations
+Based on the insights found, here are some recommended actions that might be applied to reduce the churn rate:
+- Address the main reason for churn with several approaches:
+  * Increase the value of the company's offerings by providing more competitive packages, both in terms of price and features in order to compete with competitors.
+  * Consider working with leading vendors to provide the latest and more attractive devices.
+  * Improve customer support training to ensure a friendly, professional, and solutive attitude.
+- Conduct an in-depth analysis of why Offer E is causing a high churn rate (53%). Consider replacing or improving Offer E with a more relevant and engaging offer.
+- Provide incentives to convert month-to-month customers to long-term contracts, such as additional discounts or free premium services.
+- Segment customers by age and adjust marketing strategies and offers accordingly.
+- Conduct deeper geographical analysis to understand why San Diego has a very high churn rate (65%).
+- Use the churn prediction model that has been built to identify customers who have the potential to churn. Then proactively intervene with the identified customers.
 
 The SQL queries utilized to seperate data can be found here.
 

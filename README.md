@@ -64,7 +64,7 @@ Based on the insights found, here are some recommended actions that might be app
 - **Develop specific strategy for older customers**. They are likely to be more sensitive to service quality, clarity of information, and technical support.
 - **Conduct deeper geographical analysis to understand why San Diego has a very high churn rate (67%)**. This city deserves to be priority for improvement because majority of customers were based here, so the impact on total revenue could be significant.
 
-===
+*****
 
 The SQL queries utilized to clean, organize, and prepare data to dashboard can be found [here](https://github.com/msyariffakhrezi/Customer-Churn-Analysis/blob/main/data%20cleaning.sql).
 

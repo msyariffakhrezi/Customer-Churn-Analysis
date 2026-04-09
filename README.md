@@ -1,11 +1,18 @@
 # Customer-Churn-Analysis
 
+## Table of Contents
+- [Project Background](#project-background)
+- [Dataset](#dataset)
+- [Insights](#insights)
+  * [Executive Summary](executive-summary)
+  * [Product Insights](product-insights)
+  * [Demographic and Geographic](demographic-and-geographic)
+- [Recommendations](#recommendation)
+
 ## Project Background
-Redblue Telco, is a telecommunications company in the state of california that provides home phone and internet sevices to customers over more than 1000 cities and zip codes. 
+Redblue Telco is a telecommunications company in the state of california that provides home phone and internet sevices to customers over more than 1000 cities and zip codes. 
 
 By the end of the last quarter, the company have a critical problem about 28% of their customers decided on not renewing their subscribtions, meaning the customer churn rate is very high and above the goal of 10%, and the company is now facing a big challenge on retaining its customers. So, this project thoroughly analyses to uncover the factors leading to high customer churn rates and to help business stakeholders understand why customers leave and what can be done to retain them. 
-
-In addition, we build a predictive model to identify customers who are likely to churn, by understanding churn patterns, company can take proactive measures to improve customer retention.
 
 Insights and recommendations are provided on the following key areas:
 - **Churn Analysis**: Identification of factors that influence churn.
@@ -56,20 +63,11 @@ Based on the insights found, here are some recommended actions that might be app
 - **Offer referral incentives that also strengthen customer loyalty to the brand**. As customers who refer others were generally more loyal, referrals can be used not only for customer acquisition but also as an indicator of engagement.
 - **Develop specific strategy for older customers**. They are likely to be more sensitive to service quality, clarity of information, and technical support.
 - **Conduct deeper geographical analysis to understand why San Diego has a very high churn rate (67%)**. This city deserves to be priority for improvement because majority of customers were based here, so the impact on total revenue could be significant.
-- **Use the churn prediction model that has been built to identify joined customers who have the potential to churn**. Then proactively intervene with the identified customers.
 
-The SQL queries utilized to seperate data can be found here.
+===
 
-The SQL queries utilized to clean, organize, and prepare data to dashboard can be found here.
+The SQL queries utilized to clean, organize, and prepare data to dashboard can be found [here](https://github.com/msyariffakhrezi/Customer-Churn-Analysis/blob/main/data%20cleaning.sql).
 
-The SQL queries utilized to analyze data exploratory can be found here.
+The interactive dashboard can be found [here](https://public.tableau.com/app/profile/muhamad.syarif.fakhrezi/viz/CustomerChurnAnalysis_17399800693450/Home?publish=yes).
 
-The interactive dashboard can be found here.
-
-The notebook of churn prediction modeling can be found here.
-
-Model files to predict customer churn can be found here.
-
-All dataset can be found here.
-
-
+The dataset can be found [here](https://github.com/msyariffakhrezi/Customer-Churn-Analysis/tree/main/dataset).
